@@ -1,0 +1,2 @@
+# hahaha
+ini bot
